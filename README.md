@@ -1,3 +1,15 @@
+# todo-client
+
+> a todo client with typescript react and axios
+>
+> 使用 react 和 ts 构建的 todos 项目
+
+**客户端地址：[https://github.com/WalkAlone0325/todo-client](https://github.com/WalkAlone0325/todo-client)**
+
+**服务端地址：[https://github.com/WalkAlone0325/todo-server](https://github.com/WalkAlone0325/todo-server)**
+
+## --------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
