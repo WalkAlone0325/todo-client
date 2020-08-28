@@ -46,7 +46,7 @@ const App: React.FC = () => {
   const handleDeleteTodo = (_id: string): void => {
     deleteTodo(_id)
       .then(({ status, data }) => {
-        if (status !== 2000) {
+        if (status !== 200) {
           throw new Error("Error! Todo not deleted");
         }
         setTodos(data.todos);
